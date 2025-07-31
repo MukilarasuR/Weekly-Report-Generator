@@ -12,4 +12,7 @@ __pycache__/
 
 .env
 .vscode
+credentails.json
+get_gmail_token.py
+token.pkl
 
